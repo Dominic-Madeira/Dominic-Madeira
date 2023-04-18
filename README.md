@@ -1,5 +1,7 @@
 <h1> Hello there 👋 </h1>
-<p>My name is Dominic Madeira and I am a student at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
+<p>My name is Dominic Madeira and I am a student at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada. I am good at mathematics and science</p>
+
+<img alt="Dominic" src="./portrait.png">
 
 <h2>🧑‍💻 My Programming Languages</h2>
 <p>
@@ -18,7 +20,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
 </p>
 
-<h2>🔧 Tools</h2>
+<h2>🔧 Tools I Use</h2>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 <img src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?logo=replit&logoColor=orange" alt="Repl.it">
