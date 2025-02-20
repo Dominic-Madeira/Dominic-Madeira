@@ -12,15 +12,18 @@
   <a href="https://github.com/search?q=user%3ADominic-Madeira+language%3Abash&type=code"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADominic-Madeira+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADominic-Madeira+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-%2300599C.svg?logo=cpp2&logoColor=white"></a>
 </p>
 
 <h2>💻 Operating Systems I Can Use</h2>
 <p>
   <img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS">
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
+  <a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi"></a>
   <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" alt="iOS">
   <img src="https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=white" alt="Mac OS">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+  
 </p>
 
 <h2>🔧 Tools I Use</h2>
